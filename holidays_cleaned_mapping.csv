@@ -1,0 +1,653 @@
+Date,Country,Holiday,holiday_cleaned_final
+"2014, 1, 1",Denmark, Nytårsdag,new years day
+"2014, 4, 17",Denmark, Skærtorsdag,maundy thursday
+"2014, 4, 18",Denmark, Langfredag,good friday
+"2014, 4, 20",Denmark, Påskedag,easter day
+"2014, 4, 21",Denmark, Anden påskedag,easter day
+"2014, 5, 16",Denmark, Store bededag,big bedday
+"2014, 5, 29",Denmark, Kristi himmelfartsdag,ascension day
+"2014, 6, 8",Denmark, Pinsedag,whit monday
+"2014, 6, 9",Denmark, Anden pinsedag,whit monday
+"2014, 12, 25",Denmark, Juledag,christmas
+"2014, 12, 26",Denmark, Anden juledag,boxing day
+"2011, 1, 1",Denmark, Nytårsdag,new years day
+"2011, 4, 21",Denmark, Skærtorsdag,maundy thursday
+"2011, 4, 22",Denmark, Langfredag,good friday
+"2011, 4, 24",Denmark, Påskedag,easter day
+"2011, 4, 25",Denmark, Anden påskedag,easter day
+"2011, 5, 20",Denmark, Store bededag,big bedday
+"2011, 6, 2",Denmark, Kristi himmelfartsdag,ascension day
+"2011, 6, 12",Denmark, Pinsedag,whit monday
+"2011, 6, 13",Denmark, Anden pinsedag,whit monday
+"2011, 12, 25",Denmark, Juledag,christmas
+"2011, 12, 26",Denmark, Anden juledag,boxing day
+"2012, 1, 1",Denmark, Nytårsdag,new years day
+"2012, 4, 5",Denmark, Skærtorsdag,maundy thursday
+"2012, 4, 6",Denmark, Langfredag,good friday
+"2012, 4, 8",Denmark, Påskedag,easter day
+"2012, 4, 9",Denmark, Anden påskedag,easter day
+"2012, 5, 4",Denmark, Store bededag,big bedday
+"2012, 5, 17",Denmark, Kristi himmelfartsdag,ascension day
+"2012, 5, 27",Denmark, Pinsedag,whit monday
+"2012, 5, 28",Denmark, Anden pinsedag,whit monday
+"2012, 12, 25",Denmark, Juledag,christmas
+"2012, 12, 26",Denmark, Anden juledag,boxing day
+"2013, 1, 1",Denmark, Nytårsdag,new years day
+"2013, 3, 28",Denmark, Skærtorsdag,maundy thursday
+"2013, 3, 29",Denmark, Langfredag,good friday
+"2013, 3, 31",Denmark, Påskedag,easter day
+"2013, 4, 1",Denmark, Anden påskedag,easter day
+"2013, 4, 26",Denmark, Store bededag,big bedday
+"2013, 5, 9",Denmark, Kristi himmelfartsdag,ascension day
+"2013, 5, 19",Denmark, Pinsedag,whit monday
+"2013, 5, 20",Denmark, Anden pinsedag,whit monday
+"2013, 12, 25",Denmark, Juledag,christmas
+"2013, 12, 26",Denmark, Anden juledag,boxing day
+"2015, 1, 1",Denmark, Nytårsdag,new years day
+"2015, 4, 2",Denmark, Skærtorsdag,maundy thursday
+"2015, 4, 3",Denmark, Langfredag,good friday
+"2015, 4, 5",Denmark, Påskedag,easter day
+"2015, 4, 6",Denmark, Anden påskedag,easter day
+"2015, 5, 1",Denmark, Store bededag,big bedday
+"2015, 5, 14",Denmark, Kristi himmelfartsdag,ascension day
+"2015, 5, 24",Denmark, Pinsedag,whit monday
+"2015, 5, 25",Denmark, Anden pinsedag,whit monday
+"2015, 12, 25",Denmark, Juledag,christmas
+"2015, 12, 26",Denmark, Anden juledag,boxing day
+"2016, 1, 1",Denmark, Nytårsdag,new years day
+"2016, 3, 24",Denmark, Skærtorsdag,maundy thursday
+"2016, 3, 25",Denmark, Langfredag,good friday
+"2016, 3, 27",Denmark, Påskedag,easter day
+"2016, 3, 28",Denmark, Anden påskedag,easter day
+"2016, 4, 22",Denmark, Store bededag,big bedday
+"2016, 5, 5",Denmark, Kristi himmelfartsdag,ascension day
+"2016, 5, 15",Denmark, Pinsedag,whit monday
+"2016, 5, 16",Denmark, Anden pinsedag,whit monday
+"2016, 12, 25",Denmark, Juledag,christmas
+"2016, 12, 26",Denmark, Anden juledag,boxing day
+"2017, 1, 1",Denmark, Nytårsdag,new years day
+"2017, 4, 13",Denmark, Skærtorsdag,maundy thursday
+"2017, 4, 14",Denmark, Langfredag,good friday
+"2017, 4, 16",Denmark, Påskedag,easter day
+"2017, 4, 17",Denmark, Anden påskedag,easter day
+"2017, 5, 12",Denmark, Store bededag,big bedday
+"2017, 5, 25",Denmark, Kristi himmelfartsdag,ascension day
+"2017, 6, 4",Denmark, Pinsedag,whit monday
+"2017, 6, 5",Denmark, Anden pinsedag,whit monday
+"2017, 12, 25",Denmark, Juledag,christmas
+"2017, 12, 26",Denmark, Anden juledag,boxing day
+"2018, 1, 1",Denmark, Nytårsdag,new years day
+"2018, 3, 29",Denmark, Skærtorsdag,maundy thursday
+"2018, 3, 30",Denmark, Langfredag,good friday
+"2018, 4, 1",Denmark, Påskedag,easter day
+"2018, 4, 2",Denmark, Anden påskedag,easter day
+"2018, 4, 27",Denmark, Store bededag,big bedday
+"2018, 5, 10",Denmark, Kristi himmelfartsdag,ascension day
+"2018, 5, 20",Denmark, Pinsedag,whit monday
+"2018, 5, 21",Denmark, Anden pinsedag,whit monday
+"2018, 12, 25",Denmark, Juledag,christmas
+"2018, 12, 26",Denmark, Anden juledag},boxing day
+"2014, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2014, 4, 20",Belgium, Pasen,pass
+"2014, 4, 21",Belgium, Paasmaandag,easter day
+"2014, 5, 29",Belgium, O.L.H. Hemelvaart,ascension day
+"2014, 6, 8",Belgium, Pinksteren,pentecost
+"2014, 6, 9",Belgium, Pinkstermaandag,whit monday
+"2014, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2014, 7, 21",Belgium, Nationale feestdag,national holiday
+"2014, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2014, 11, 1",Belgium, Allerheiligen,all saints day
+"2014, 11, 11",Belgium, Wapenstilstand,truce
+"2014, 12, 25",Belgium, Kerstmis,christmas
+"2013, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2013, 3, 31",Belgium, Pasen,pass
+"2013, 4, 1",Belgium, Paasmaandag,easter day
+"2013, 5, 9",Belgium, O.L.H. Hemelvaart,ascension day
+"2013, 5, 19",Belgium, Pinksteren,pentecost
+"2013, 5, 20",Belgium, Pinkstermaandag,whit monday
+"2013, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2013, 7, 21",Belgium, Nationale feestdag,national holiday
+"2013, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2013, 11, 1",Belgium, Allerheiligen,all saints day
+"2013, 11, 11",Belgium, Wapenstilstand,truce
+"2013, 12, 25",Belgium, Kerstmis,christmas
+"2012, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2012, 4, 8",Belgium, Pasen,pass
+"2012, 4, 9",Belgium, Paasmaandag,easter day
+"2012, 5, 17",Belgium, O.L.H. Hemelvaart,ascension day
+"2012, 5, 27",Belgium, Pinksteren,pentecost
+"2012, 5, 28",Belgium, Pinkstermaandag,whit monday
+"2012, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2012, 7, 21",Belgium, Nationale feestdag,national holiday
+"2012, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2012, 11, 1",Belgium, Allerheiligen,all saints day
+"2012, 11, 11",Belgium, Wapenstilstand,truce
+"2012, 12, 25",Belgium, Kerstmis,christmas
+"2011, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2011, 4, 24",Belgium, Pasen,pass
+"2011, 4, 25",Belgium, Paasmaandag,easter day
+"2011, 6, 2",Belgium, O.L.H. Hemelvaart,ascension day
+"2011, 6, 12",Belgium, Pinksteren,pentecost
+"2011, 6, 13",Belgium, Pinkstermaandag,whit monday
+"2011, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2011, 7, 21",Belgium, Nationale feestdag,national holiday
+"2011, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2011, 11, 1",Belgium, Allerheiligen,all saints day
+"2011, 11, 11",Belgium, Wapenstilstand,truce
+"2011, 12, 25",Belgium, Kerstmis,christmas
+"2015, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2015, 4, 5",Belgium, Pasen,pass
+"2015, 4, 6",Belgium, Paasmaandag,easter day
+"2015, 5, 14",Belgium, O.L.H. Hemelvaart,ascension day
+"2015, 5, 24",Belgium, Pinksteren,pentecost
+"2015, 5, 25",Belgium, Pinkstermaandag,whit monday
+"2015, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2015, 7, 21",Belgium, Nationale feestdag,national holiday
+"2015, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2015, 11, 1",Belgium, Allerheiligen,all saints day
+"2015, 11, 11",Belgium, Wapenstilstand,truce
+"2015, 12, 25",Belgium, Kerstmis,christmas
+"2016, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2016, 3, 27",Belgium, Pasen,pass
+"2016, 3, 28",Belgium, Paasmaandag,easter day
+"2016, 5, 5",Belgium, O.L.H. Hemelvaart,ascension day
+"2016, 5, 15",Belgium, Pinksteren,pentecost
+"2016, 5, 16",Belgium, Pinkstermaandag,whit monday
+"2016, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2016, 7, 21",Belgium, Nationale feestdag,national holiday
+"2016, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2016, 11, 1",Belgium, Allerheiligen,all saints day
+"2016, 11, 11",Belgium, Wapenstilstand,truce
+"2016, 12, 25",Belgium, Kerstmis,christmas
+"2017, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2017, 4, 16",Belgium, Pasen,pass
+"2017, 4, 17",Belgium, Paasmaandag,easter day
+"2017, 5, 25",Belgium, O.L.H. Hemelvaart,ascension day
+"2017, 6, 4",Belgium, Pinksteren,pentecost
+"2017, 6, 5",Belgium, Pinkstermaandag,whit monday
+"2017, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2017, 7, 21",Belgium, Nationale feestdag,national holiday
+"2017, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2017, 11, 1",Belgium, Allerheiligen,all saints day
+"2017, 11, 11",Belgium, Wapenstilstand,truce
+"2017, 12, 25",Belgium, Kerstmis,christmas
+"2018, 1, 1",Belgium, Nieuwjaarsdag,new years day
+"2018, 4, 1",Belgium, Pasen,pass
+"2018, 4, 2",Belgium, Paasmaandag,easter day
+"2018, 5, 10",Belgium, O.L.H. Hemelvaart,ascension day
+"2018, 5, 20",Belgium, Pinksteren,pentecost
+"2018, 5, 21",Belgium, Pinkstermaandag,whit monday
+"2018, 5, 1",Belgium, Dag van de Arbeid,labour day
+"2018, 7, 21",Belgium, Nationale feestdag,national holiday
+"2018, 8, 15",Belgium, O.L.V. Hemelvaart,ascension day
+"2018, 11, 1",Belgium, Allerheiligen,all saints day
+"2018, 11, 11",Belgium, Wapenstilstand,truce
+"2018, 12, 25",Belgium, Kerstmis,christmas
+"2018, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2018, 2, 12",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2018, 2, 13",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2018, 3, 24",Argentina," ""Día Nacional de la Memoria por la Verdad y la Justicia [Memorys National Day for the Truth and Justice]""",memorys national day for the truth and justice
+"2018, 3, 29",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2018, 3, 30",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2018, 4, 1",Argentina, Día de Pascuas [Easter Day],easter day
+"2018, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War],veterans dayand the fallen in the malvinas war
+"2018, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2018, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2018, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2018, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2018, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2018, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2018, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2018, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2018, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2018, 12, 25",Argentina, Navidad [Christmas],christmas
+"2017, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2017, 2, 27",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2017, 2, 28",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2017, 3, 24",Argentina," ""Día Nacional de la Memoria por la Verdad y la Justicia [Memorys National Day for the Truth and Justice]""",memorys national day for the truth and justice
+"2017, 4, 13",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2017, 4, 14",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2017, 4, 16",Argentina, Día de Pascuas [Easter Day],easter day
+"2017, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War],veterans dayand the fallen in the malvinas war
+"2017, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2017, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2017, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2017, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2017, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2017, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2017, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2017, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2017, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2017, 12, 25",Argentina, Navidad [Christmas],christmas
+"2016, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2016, 2, 8",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2016, 2, 9",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2016, 3, 24",Argentina," ""Semana Santa ",veterans dayand the fallen in the malvinas war
+"2016, 3, 25",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2016, 3, 27",Argentina, Día de Pascuas [Easter Day],easter day
+"2016, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War],veterans dayand the fallen in the malvinas war
+"2016, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2016, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2016, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2016, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2016, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2016, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2016, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2016, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2016, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2016, 12, 25",Argentina, Navidad [Christmas],christmas
+"2015, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2015, 2, 16",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2015, 2, 17",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2015, 3, 24",Argentina," ""Día Nacional de la Memoria por la Verdad y la Justicia [Memorys National Day for the Truth and Justice]""",memorys national day for the truth and justice
+"2015, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War] Semana Santa ,veterans dayand the fallen in the malvinas war
+"2015, 4, 3",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2015, 4, 5",Argentina, Día de Pascuas [Easter Day],easter day
+"2015, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2015, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2015, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2015, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2015, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2015, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2015, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2015, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2015, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2015, 12, 25",Argentina, Navidad [Christmas],christmas
+"2014, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2014, 3, 3",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2014, 3, 4",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2014, 3, 24",Argentina," ""Día Nacional de la Memoria por la Verdad y la Justicia [Memorys National Day for the Truth and Justice]""",memorys national day for the truth and justice
+"2014, 4, 17",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2014, 4, 18",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2014, 4, 20",Argentina, Día de Pascuas [Easter Day],easter day
+"2014, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War],veterans dayand the fallen in the malvinas war
+"2014, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2014, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2014, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2014, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2014, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2014, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2014, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2014, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2014, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2014, 12, 25",Argentina, Navidad [Christmas],christmas
+"2013, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2013, 2, 11",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2013, 2, 12",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2013, 3, 24",Argentina," ""Día Nacional de la Memoria por la Verdad y la Justicia [Memorys National Day for the Truth and Justice]""",memorys national day for the truth and justice
+"2013, 3, 28",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2013, 3, 29",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2013, 3, 31",Argentina, Día de Pascuas [Easter Day],easter day
+"2013, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War],veterans dayand the fallen in the malvinas war
+"2013, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2013, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2013, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2013, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2013, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2013, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2013, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2013, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2013, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2013, 12, 25",Argentina, Navidad [Christmas],christmas
+"2012, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2012, 2, 20",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2012, 2, 21",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2012, 3, 24",Argentina," ""Día Nacional de la Memoria por la Verdad y la Justicia [Memorys National Day for the Truth and Justice]""",memorys national day for the truth and justice
+"2012, 4, 5",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2012, 4, 6",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2012, 4, 8",Argentina, Día de Pascuas [Easter Day],easter day
+"2012, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War],veterans dayand the fallen in the malvinas war
+"2012, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2012, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2012, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2012, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2012, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2012, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2012, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2012, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2012, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2012, 12, 25",Argentina, Navidad [Christmas],christmas
+"2011, 1, 1",Argentina," ""Año Nuevo [New Years Day]""",new years day
+"2011, 3, 7",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2011, 3, 8",Argentina," ""Día de Carnaval [Carnivals Day]""",carnivals day
+"2011, 3, 24",Argentina," ""Día Nacional de la Memoria por la Verdad y la Justicia [Memorys National Day for the Truth and Justice]""",memorys national day for the truth and justice
+"2011, 4, 21",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2011, 4, 22",Argentina, Semana Santa ,veterans dayand the fallen in the malvinas war
+"2011, 4, 24",Argentina, Día de Pascuas [Easter Day],easter day
+"2011, 4, 2",Argentina, Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Dayand the Fallen in the Malvinas War],veterans dayand the fallen in the malvinas war
+"2011, 5, 1",Argentina, Día del Trabajo [Labour Day],labour day
+"2011, 5, 25",Argentina, Día de la Revolucion de Mayo [May Revolution Day],may day
+"2011, 6, 17",Argentina, Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],day pass to the immortality of general
+"2011, 6, 20",Argentina, Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],day pass to the immortality of general
+"2011, 7, 9",Argentina, Día de la Independencia [Independence Day],independence day
+"2011, 8, 17",Argentina, Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],day pass to the immortality of general
+"2011, 10, 12",Argentina, Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],respect for cultural diversity day
+"2011, 11, 20",Argentina, Día Nacional de la Soberanía [National Sovereignty Day],national sovereignty day
+"2011, 12, 8",Argentina, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2011, 12, 25",Argentina, Navidad [Christmas]},christmas
+"2011, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2011, 7, 20",Columbia, Día de la Independencia [Independence Day],independence day
+"2011, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2011, 12, 8",Columbia, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2011, 12, 25",Columbia, Navidad [Christmas],christmas
+"2011, 1, 10",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2011, 3, 21",Columbia," ""Día de San José [Saint Josephs Day]",saint josephs day
+"2011, 7, 4",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2011, 8, 15",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2011, 10, 17",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2011, 11, 7",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2011, 11, 14",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2011, 4, 21",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2011, 4, 22",Columbia, Viernes Santo [Good Friday],good friday
+"2011, 6, 6",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2011, 6, 27",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2012, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2012, 7, 20",Columbia, Día de la Independencia [Independence Day],independence day
+"2012, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2012, 12, 25",Columbia, Navidad [Christmas],christmas
+"2012, 1, 9",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2012, 3, 19",Columbia," ""Día de San José [Saint Josephs Day]""",saint josephs day
+"2012, 7, 2",Columbia, San Pedro y San Pablo [Saint Peter and Saint Paul],saint peter and saint paul
+"2012, 8, 20",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2012, 10, 15",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2012, 11, 5",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2012, 11, 12",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2012, 4, 5",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2012, 4, 6",Columbia, Viernes Santo [Good Friday],good friday
+"2012, 5, 21",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2012, 6, 11",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2012, 6, 18",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2013, 1, 1",Columbia," ""Año Nuevo [New Years Day]""",new years day
+"2013, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2013, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2013, 12, 25",Columbia, Navidad [Christmas],christmas
+"2013, 1, 7",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2013, 3, 25",Columbia," ""Día de San José [Saint Josephs Day]",saint josephs day
+"2013, 7, 1",Columbia, San Pedro y San Pablo [Saint Peter and Saint Paul],saint peter and saint paul
+"2013, 8, 19",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2013, 10, 14",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2013, 11, 4",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2013, 11, 11",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2013, 3, 28",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2013, 3, 29",Columbia, Viernes Santo [Good Friday],good friday
+"2013, 5, 13",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2013, 6, 3",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2013, 6, 10",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2014, 1, 1",Columbia," ""Año Nuevo [New Years Day]""",new years day
+"2014, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2014, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2014, 12, 8",Columbia, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2014, 12, 25",Columbia, Navidad [Christmas],christmas
+"2014, 1, 6",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2014, 3, 24",Columbia," ""Día de San José [Saint Josephs Day]",saint josephs day
+"2014, 6, 30",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2014, 8, 18",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2014, 10, 13",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2014, 11, 3",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2014, 11, 17",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2014, 4, 17",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2014, 4, 18",Columbia, Viernes Santo [Good Friday],good friday
+"2014, 6, 2",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2014, 6, 23",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2015, 1, 1",Columbia," ""Año Nuevo [New Years Day]""",new years day
+"2015, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2015, 7, 20",Columbia, Día de la Independencia [Independence Day],independence day
+"2015, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2015, 12, 8",Columbia, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2015, 12, 25",Columbia, Navidad [Christmas],christmas
+"2015, 1, 12",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2015, 3, 23",Columbia," ""Día de San José [Saint Josephs Day]",saint josephs day
+"2015, 6, 29",Columbia, San Pedro y San Pablo [Saint Peter and Saint Paul],saint peter and saint paul
+"2015, 8, 17",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2015, 10, 12",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2015, 11, 2",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2015, 11, 16",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2015, 4, 2",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2015, 4, 3",Columbia, Viernes Santo [Good Friday],good friday
+"2015, 5, 18",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2015, 6, 8",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2015, 6, 15",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2016, 1, 1",Columbia," ""Año Nuevo [New Years Day]""",new years day
+"2016, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2016, 7, 20",Columbia, Día de la Independencia [Independence Day],independence day
+"2016, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2016, 12, 8",Columbia, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2016, 12, 25",Columbia, Navidad [Christmas],christmas
+"2016, 1, 11",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2016, 3, 21",Columbia," ""Día de San José [Saint Josephs Day]",saint josephs day
+"2016, 7, 4",Columbia, San Pedro y San Pablo [Saint Peter and Saint Paul],saint peter and saint paul
+"2016, 8, 15",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2016, 10, 17",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2016, 11, 7",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2016, 11, 14",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2016, 3, 24",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2016, 3, 25",Columbia, Viernes Santo [Good Friday],good friday
+"2016, 5, 9",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2016, 5, 30",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2016, 6, 6",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2017, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2017, 7, 20",Columbia, Día de la Independencia [Independence Day],independence day
+"2017, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2017, 12, 8",Columbia, La Inmaculada Concepción [Immaculate Conception],immaculate conception
+"2017, 12, 25",Columbia, Navidad [Christmas],christmas
+"2017, 1, 9",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2017, 3, 20",Columbia," ""Día de San José [Saint Josephs Day]",saint josephs day
+"2017, 7, 3",Columbia, San Pedro y San Pablo [Saint Peter and Saint Paul],saint peter and saint paul
+"2017, 8, 21",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2017, 10, 16",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2017, 11, 6",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2017, 11, 13",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2017, 4, 13",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2017, 4, 14",Columbia, Viernes Santo [Good Friday],good friday
+"2017, 5, 29",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2017, 6, 19",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2017, 6, 26",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2018, 1, 1",Columbia," ""Año Nuevo [New Years Day]""",new years day
+"2018, 5, 1",Columbia, Día del Trabajo [Labour Day],labour day
+"2018, 7, 20",Columbia, Día de la Independencia [Independence Day],independence day
+"2018, 8, 7",Columbia, Batalla de Boyacá [Battle of Boyacá],battle of boyacá
+"2018, 12, 25",Columbia, Navidad [Christmas],christmas
+"2018, 1, 8",Columbia, Día de los Reyes Magos [Epiphany],epiphany
+"2018, 3, 19",Columbia," ""Día de San José [Saint Josephs Day]""",saint josephs day
+"2018, 7, 2",Columbia, San Pedro y San Pablo [Saint Peter and Saint Paul],saint peter and saint paul
+"2018, 8, 20",Columbia, La Asunción [Assumption of Mary],assumption of mary
+"2018, 10, 15",Columbia, Descubrimiento de América [Discovery of America],discovery of america
+"2018, 11, 5",Columbia," ""Dia de Todos los Santos [All Saints Day]",all saints day
+"2018, 11, 12",Columbia, Independencia de Cartagena [Independence of Cartagena],independence day
+"2018, 3, 29",Columbia, Jueves Santo [Maundy Thursday],maundy thursday
+"2018, 3, 30",Columbia, Viernes Santo [Good Friday],good friday
+"2018, 5, 14",Columbia, Ascensión del señor [Ascension of Jesus],ascension day
+"2018, 6, 4",Columbia, Corpus Christi [Corpus Christi],body of christ
+"2018, 6, 11",Columbia, Sagrado Corazón [Sacred Heart],sacred heart
+"2018, 1, 1",England," ""New Years Day""",new years day
+"2018, 3, 30",England, Good Friday,good friday
+"2018, 4, 2",England, Easter Monday,easter day
+"2018, 5, 7",England, May Day,may day
+"2018, 5, 28",England, Spring Bank Holiday,bank holiday
+"2018, 8, 27",England, Late Summer Bank Holiday,bank holiday
+"2018, 12, 25",England, Christmas Day,christmas
+"2018, 12, 26",England, Boxing Day,boxing day
+"2017, 1, 1",England," ""New Years Day""",new years day
+"2017, 1, 2",England," ""New Years Day ",new years day
+"2017, 4, 14",England, Good Friday,good friday
+"2017, 4, 17",England, Easter Monday,easter day
+"2017, 5, 1",England, May Day,may day
+"2017, 5, 29",England, Spring Bank Holiday,bank holiday
+"2017, 8, 28",England, Late Summer Bank Holiday,bank holiday
+"2017, 12, 25",England, Christmas Day,christmas
+"2017, 12, 26",England, Boxing Day,boxing day
+"2016, 1, 1",England," ""New Years Day""",new years day
+"2016, 3, 25",England, Good Friday,good friday
+"2016, 3, 28",England, Easter Monday,easter day
+"2016, 5, 2",England, May Day,may day
+"2016, 5, 30",England, Spring Bank Holiday,bank holiday
+"2016, 8, 29",England, Late Summer Bank Holiday,bank holiday
+"2016, 12, 25",England, Christmas Day,christmas
+"2016, 12, 27",England, Christmas Day ,christmas
+"2016, 12, 26",England, Boxing Day,boxing day
+"2015, 1, 1",England," ""New Years Day""",new years day
+"2015, 4, 3",England, Good Friday,good friday
+"2015, 4, 6",England, Easter Monday,easter day
+"2015, 5, 4",England, May Day,may day
+"2015, 5, 25",England, Spring Bank Holiday,bank holiday
+"2015, 8, 31",England, Late Summer Bank Holiday,bank holiday
+"2015, 12, 25",England, Christmas Day,christmas
+"2015, 12, 26",England, Boxing Day,boxing day
+"2015, 12, 28",England, Boxing Day ,boxing day
+"2014, 1, 1",England," ""New Years Day""",new years day
+"2014, 4, 18",England, Good Friday,good friday
+"2014, 4, 21",England, Easter Monday,easter day
+"2014, 5, 5",England, May Day,may day
+"2014, 5, 26",England, Spring Bank Holiday,bank holiday
+"2014, 8, 25",England, Late Summer Bank Holiday,bank holiday
+"2014, 12, 25",England, Christmas Day,christmas
+"2014, 12, 26",England, Boxing Day,boxing day
+"2013, 1, 1",England," ""New Years Day""",new years day
+"2013, 3, 29",England, Good Friday,good friday
+"2013, 4, 1",England, Easter Monday,easter day
+"2013, 5, 6",England, May Day,may day
+"2013, 5, 27",England, Spring Bank Holiday,bank holiday
+"2013, 8, 26",England, Late Summer Bank Holiday,bank holiday
+"2013, 12, 25",England, Christmas Day,christmas
+"2013, 12, 26",England, Boxing Day,boxing day
+"2012, 1, 1",England," ""New Years Day""",new years day
+"2012, 1, 2",England," ""New Years Day ",new years day
+"2012, 4, 6",England, Good Friday,good friday
+"2012, 4, 9",England, Easter Monday,easter day
+"2012, 5, 7",England, May Day,may day
+"2012, 6, 4",England, Spring Bank Holiday,bank holiday
+"2012, 8, 27",England, Late Summer Bank Holiday,bank holiday
+"2012, 12, 25",England, Christmas Day,christmas
+"2012, 12, 26",England, Boxing Day,boxing day
+"2012, 6, 5",England, Diamond Jubilee of Elizabeth II,diamond jubilee of elizabeth ii
+"2011, 1, 1",England," ""New Years Day""",new years day
+"2011, 1, 3",England," ""New Years Day ",new years day
+"2011, 4, 22",England, Good Friday,good friday
+"2011, 4, 25",England, Easter Monday,easter day
+"2011, 5, 2",England, May Day,may day
+"2011, 5, 30",England, Spring Bank Holiday,bank holiday
+"2011, 8, 29",England, Late Summer Bank Holiday,bank holiday
+"2011, 12, 25",England, Christmas Day,christmas
+"2011, 12, 27",England, Christmas Day ,christmas
+"2011, 12, 26",England, Boxing Day,boxing day
+"2011, 4, 29",England, Wedding of William and Catherine},wedding of william and catherine
+"2011, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2011, 1, 6",Finland, Loppiainen,epiphany
+"2011, 4, 22",Finland, Pitkäperjantai,good friday
+"2011, 4, 24",Finland, Pääsiäispäivä,easter day
+"2011, 4, 25",Finland, 2. pääsiäispäivä,easter day
+"2011, 5, 1",Finland, Vappu,first of may
+"2011, 6, 2",Finland, Helatorstai,ascension day
+"2011, 6, 12",Finland, Helluntaipäivä,whit monday
+"2011, 6, 25",Finland, Juhannuspäivä,midsummer day
+"2011, 11, 5",Finland, Pyhäinpäivä,all saints day
+"2011, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2011, 12, 25",Finland, Joulupäivä,christmas
+"2011, 12, 26",Finland, Tapaninpäivä,boxing day
+"2011, 6, 24",Finland, Juhannusaatto,midsummer day
+"2011, 12, 24",Finland, Jouluaatto,christmas
+"2012, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2012, 1, 6",Finland, Loppiainen,epiphany
+"2012, 4, 6",Finland, Pitkäperjantai,good friday
+"2012, 4, 8",Finland, Pääsiäispäivä,easter day
+"2012, 4, 9",Finland, 2. pääsiäispäivä,easter day
+"2012, 5, 1",Finland, Vappu,first of may
+"2012, 5, 17",Finland, Helatorstai,ascension day
+"2012, 5, 27",Finland, Helluntaipäivä,whit monday
+"2012, 6, 23",Finland, Juhannuspäivä,midsummer day
+"2012, 11, 3",Finland, Pyhäinpäivä,all saints day
+"2012, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2012, 12, 25",Finland, Joulupäivä,christmas
+"2012, 12, 26",Finland, Tapaninpäivä,boxing day
+"2012, 6, 22",Finland, Juhannusaatto,midsummer day
+"2012, 12, 24",Finland, Jouluaatto,christmas
+"2013, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2013, 1, 6",Finland, Loppiainen,epiphany
+"2013, 3, 29",Finland, Pitkäperjantai,good friday
+"2013, 3, 31",Finland, Pääsiäispäivä,easter day
+"2013, 4, 1",Finland, 2. pääsiäispäivä,easter day
+"2013, 5, 1",Finland, Vappu,first of may
+"2013, 5, 9",Finland, Helatorstai,ascension day
+"2013, 5, 19",Finland, Helluntaipäivä,whit monday
+"2013, 6, 22",Finland, Juhannuspäivä,midsummer day
+"2013, 11, 2",Finland, Pyhäinpäivä,all saints day
+"2013, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2013, 12, 25",Finland, Joulupäivä,christmas
+"2013, 12, 26",Finland, Tapaninpäivä,boxing day
+"2013, 6, 21",Finland, Juhannusaatto,midsummer day
+"2013, 12, 24",Finland, Jouluaatto,christmas
+"2014, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2014, 1, 6",Finland, Loppiainen,epiphany
+"2014, 4, 18",Finland, Pitkäperjantai,good friday
+"2014, 4, 20",Finland, Pääsiäispäivä,easter day
+"2014, 4, 21",Finland, 2. pääsiäispäivä,easter day
+"2014, 5, 1",Finland, Vappu,first of may
+"2014, 5, 29",Finland, Helatorstai,ascension day
+"2014, 6, 8",Finland, Helluntaipäivä,whit monday
+"2014, 6, 21",Finland, Juhannuspäivä,midsummer day
+"2014, 11, 1",Finland, Pyhäinpäivä,all saints day
+"2014, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2014, 12, 25",Finland, Joulupäivä,christmas
+"2014, 12, 26",Finland, Tapaninpäivä,boxing day
+"2014, 6, 20",Finland, Juhannusaatto,midsummer day
+"2014, 12, 24",Finland, Jouluaatto,christmas
+"2015, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2015, 1, 6",Finland, Loppiainen,epiphany
+"2015, 4, 3",Finland, Pitkäperjantai,good friday
+"2015, 4, 5",Finland, Pääsiäispäivä,easter day
+"2015, 4, 6",Finland, 2. pääsiäispäivä,easter day
+"2015, 5, 1",Finland, Vappu,first of may
+"2015, 5, 14",Finland, Helatorstai,ascension day
+"2015, 5, 24",Finland, Helluntaipäivä,whit monday
+"2015, 6, 20",Finland, Juhannuspäivä,midsummer day
+"2015, 10, 31",Finland, Pyhäinpäivä,all saints day
+"2015, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2015, 12, 25",Finland, Joulupäivä,christmas
+"2015, 12, 26",Finland, Tapaninpäivä,boxing day
+"2015, 6, 19",Finland, Juhannusaatto,midsummer day
+"2015, 12, 24",Finland, Jouluaatto,christmas
+"2016, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2016, 1, 6",Finland, Loppiainen,epiphany
+"2016, 3, 25",Finland, Pitkäperjantai,good friday
+"2016, 3, 27",Finland, Pääsiäispäivä,easter day
+"2016, 3, 28",Finland, 2. pääsiäispäivä,easter day
+"2016, 5, 1",Finland, Vappu,first of may
+"2016, 5, 5",Finland, Helatorstai,ascension day
+"2016, 5, 15",Finland, Helluntaipäivä,whit monday
+"2016, 6, 25",Finland, Juhannuspäivä,midsummer day
+"2016, 11, 5",Finland, Pyhäinpäivä,all saints day
+"2016, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2016, 12, 25",Finland, Joulupäivä,christmas
+"2016, 12, 26",Finland, Tapaninpäivä,boxing day
+"2016, 6, 24",Finland, Juhannusaatto,midsummer day
+"2016, 12, 24",Finland, Jouluaatto,christmas
+"2017, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2017, 1, 6",Finland, Loppiainen,epiphany
+"2017, 4, 14",Finland, Pitkäperjantai,good friday
+"2017, 4, 16",Finland, Pääsiäispäivä,easter day
+"2017, 4, 17",Finland, 2. pääsiäispäivä,easter day
+"2017, 5, 1",Finland, Vappu,first of may
+"2017, 5, 25",Finland, Helatorstai,ascension day
+"2017, 6, 4",Finland, Helluntaipäivä,whit monday
+"2017, 6, 24",Finland, Juhannuspäivä,midsummer day
+"2017, 11, 4",Finland, Pyhäinpäivä,all saints day
+"2017, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2017, 12, 25",Finland, Joulupäivä,christmas
+"2017, 12, 26",Finland, Tapaninpäivä,boxing day
+"2017, 6, 23",Finland, Juhannusaatto,midsummer day
+"2017, 12, 24",Finland, Jouluaatto,christmas
+"2018, 1, 1",Finland, Uudenvuodenpäivä,new years day
+"2018, 1, 6",Finland, Loppiainen,epiphany
+"2018, 3, 30",Finland, Pitkäperjantai,good friday
+"2018, 4, 1",Finland, Pääsiäispäivä,easter day
+"2018, 4, 2",Finland, 2. pääsiäispäivä,easter day
+"2018, 5, 1",Finland, Vappu,first of may
+"2018, 5, 10",Finland, Helatorstai,ascension day
+"2018, 5, 20",Finland, Helluntaipäivä,whit monday
+"2018, 6, 23",Finland, Juhannuspäivä,midsummer day
+"2018, 11, 3",Finland, Pyhäinpäivä,all saints day
+"2018, 12, 6",Finland, Itsenäisyyspäivä,independence day
+"2018, 12, 25",Finland, Joulupäivä,christmas
+"2018, 12, 26",Finland, Tapaninpäivä,boxing day
+"2018, 6, 22",Finland, Juhannusaatto,midsummer day
+"2018, 12, 24",Finland, Jouluaatto},christmas
